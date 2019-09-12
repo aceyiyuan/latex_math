@@ -1,0 +1,64 @@
+###This is just a text
+## Original anonymous discharge instruction:
+
+Discharge Instructions:
+You were admitted to the hospital with shortness of breath and
+respiratory failure and lethargy. In the emergency department,
+you were breathing very fast and a breathing tube was inserted
+into your airway to help you breathe. You were admitted to the
+intensive care unit. There, you were managed with steroids and
+antibiotics and the tube was eventually removed from your
+airway, allowing you to breathe on your own. You also underwent
+bronchoscopy which looked at the inside of your airways.
+.
+During your time in the intensive care unit, you developed a
+gastrointestinal bleed. A tube was placed into your stomach and
+you underwent an endoscopic procedure to look at your esophagus
+and stomach. This showed inflammation in your esophagusand
+ulcers in your stomach.
+.
+You should continue to use nasal oxygen by nasal cannula as
+needed. You should continue the steroid taper as instructed. You
+should call your doctor or return to the emergency room if you
+have increasing difficulty breathing or shortness of breath,
+wheezing, chest pain, blood in your stool or vomiting blood.
+.
+There are some changes in your medications.
+START pantoprazole 40 mg twice daily and STOP omeprazole
+START hydrochlorothiazide
+START prednisone, taking 30 mg for 3 days, then 20 mg for 4
+days, then 10 mg for 4 days, then 5 mg for 4 days, then stop.
+START colace and senna as needed for constipation
+Can use morphine to alleviate symptoms of respiratory discomfort
+STOP furosemide
+STOP zolpidem
+STOP aspirin
+INCREASE Diovan to 240 mg daily
+DECREASE trazodone to 50 mg daily
+
+## summarization example 1
+
+Discharge Instructions: You were admitted to the hospital with shortness of breath and respiratory failure and lethargy.
+In the emergency department, you were breathing very fast and a breathing tube was inserted into your airway to help you 
+breathe. [...] There, you were managed with steroids and antibiotics and the tube was eventually removed from your airway, 
+allowing you to breathe on your own. [...] A tube was placed into your stomach and you underwent an endoscopic procedure to 
+look at your esophagus and stomach. [...] START pantoprazole 40 mg twice daily and STOP omeprazole START hydrochlorothiazide
+START prednisone, taking 30 mg for 3 days, then 20 mg for 4 days, then 10 mg for 4 days, then 5 mg for 4 days, then stop.
+
+
+##summarization example 2
+
+You were admitted to the intensive care unit.
+
+Discharge Instructions: You were admitted to the hospital with shortness of breath and respiratory failure and lethargy.
+
+START pantoprazole 40 mg twice daily and STOP omeprazole START hydrochlorothiazide START prednisone, taking 30 mg for 3 days, then 20 mg for 4 days, then 10 mg for 4 days, then 5 mg for 4 days, then stop.
+
+In the emergency department, you were breathing very fast and a breathing tube was inserted into your airway to help you 
+breathe.
+
+During your time in the intensive care unit, you developed a gastrointestinal bleed.
+
+START colace and senna as needed for constipation Can use morphine to alleviate symptoms of respiratory discomfort 
+STOP furosemide STOP zolpidem STOP aspirin INCREASE Diovan to 240 mg daily 
+DECREASE trazodone to 50 mg daily
